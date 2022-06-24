@@ -1,5 +1,5 @@
-### EX NO : 01
-### DATE  : 31.03.2022
+### EX NO : 12
+### DATE  : 18.06.2022
 # <p align="center">Huffman-Coding</p>
 
 ## Aim
